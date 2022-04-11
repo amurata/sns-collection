@@ -1,0 +1,6 @@
+streamlit==1.8.0
+click==8
+tweepy==3.6.0
+requests
+requests-oauthlib
+python-dotenv
